@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+.header {
+
+}
+
+.main {
+    display: flex;
+    margin-top: 72px;
+}
+
+.content {
+    position: fixed;
+    bottom: 58px;
+    left: 120px;
+    right: 0;
+    top: 72px;
+}
